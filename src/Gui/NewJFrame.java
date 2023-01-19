@@ -491,6 +491,7 @@ if (1<2)
                 String line = tableLines[i].toString().trim();
                 String[] dataRow = line.split(",");
                 model2.addRow(dataRow);
+                model2.addRow(dataRow);
             }
             
             
