@@ -1,0 +1,3 @@
+num/name/price/count/total	
+1,mopile-cover,3200-120,2,4
+2,laptop-mouse,4000-50,2,1
